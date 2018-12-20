@@ -1,0 +1,9 @@
+[submodule "getpaper"]
+	path = getpaper
+	url = https://github.com/dbosk/getpaper.git
+[submodule "reMarkable-sync"]
+	path = reMarkable-sync
+	url = https://github.com/dbosk/reMarkable-sync.git
+[submodule "bibsp"]
+	path = bibsp
+	url = https://github.com/dbosk/bibsp.git
